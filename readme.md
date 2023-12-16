@@ -23,3 +23,8 @@ for tracking everything
 
 Putting commit/finalising version of code
 `git commit -m <commit-message>`
+
+Pushing code to github
+`git push`
+
+upstream mean from local to remote and vice versa
