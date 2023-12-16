@@ -17,3 +17,9 @@ How to create a new branch and switch at the same time
 `git checkout -b <branch-name>`
 
 Tracking/knowing which files to put
+`git add <file-1> <file-2> <file-3>`
+for tracking everything
+`git add .`
+
+Putting commit/finalising version of code
+`git commit -m <commit-message>`
